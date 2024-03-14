@@ -1,7 +1,7 @@
-import lake1 from "../image/lake1.JPG";
-import lake2 from "../image/lake2.JPG";
-import lake3 from "../image/lake3.JPG";
-import lake4 from "../image/lake4.JPG";
+import lake1 from "../image/lake.JPG";
+import lake2 from "../image/lake.JPG";
+import lake3 from "../image/lake.JPG";
+import lake4 from "../image/lake.JPG";
 
 const imageData = [
   { id: 1, img: lake1 },
